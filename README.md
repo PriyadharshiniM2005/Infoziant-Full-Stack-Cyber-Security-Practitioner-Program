@@ -51,4 +51,4 @@ The program was designed to build **strong cybersecurity fundamentals**, provide
 
 This repository is intended **strictly for educational purposes**.  
 All demonstrations and testing activities were performed in **authorized lab environments** only.  
-No real-world systems were harmed or targeted.
+No real-world systems were harmed or targeted. 
